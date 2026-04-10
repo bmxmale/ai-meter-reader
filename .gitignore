@@ -1,0 +1,16 @@
+# Compiled binary
+bin/ocr
+example/*_orginal
+
+# Output files
+*.json
+
+# Temporary files created during processing
+*.clean.jpg
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
